@@ -1,0 +1,695 @@
+[
+ {
+   "disease": "flu",
+   "symptoms": "fever,cough,sore throat,runny or stuffy nose,muscle aches,headache,fatigue",
+   "cures": "over-the-counter medications,rest,fluids",
+   "doctor": "family doctor,urgent care",
+   "risk level": "low (0.1%"
+ },
+ {
+   "disease": "bronchitis",
+   "symptoms": "cough,mucus production,shortness of breath,chest pain",
+   "cures": "antibiotics,over-the-counter medications,rest,fluids",
+   "doctor": "family doctor,pulmonologist",
+   "risk level": "low (0.5%"
+ },
+ {
+   "disease": "pneumonia",
+   "symptoms": "fever,cough,shortness of breath,chest pain,fatigue",
+   "cures": "antibiotics,over-the-counter medications,rest,fluids",
+   "doctor": "family doctor,pulmonologist",
+   "risk level": "moderate (1%)"
+ },
+ {
+   "disease": "heart attack",
+   "symptoms": "chest pain,shortness of breath,nausea,vomiting,lightheadedness,sweating",
+   "cures": "emergency medical services",
+   "doctor": "cardiologist",
+   "risk level": "high (20%)"
+ },
+ {
+   "disease": "stroke",
+   "symptoms": "sudden weakness,numbness on one side of the body,confusion,difficulty speaking,trouble seeing in one eye,severe headache",
+   "cures": "emergency medical services",
+   "doctor": "neurologist ",
+   "risk level": "high (15%)"
+ },
+ {
+   "disease": "cancer",
+   "symptoms": "lump,unexplained weight loss,fatigue,changes in bowel,bladder habits,persistent cough,indigestion,unexplained bleeding or discharge",
+   "cures": "surgery,chemotherapy,radiation therapy ",
+   "doctor": "oncologist",
+   "risk level": "varies depending on the type of cancer"
+ },
+ {
+   "disease": "diabetes",
+   "symptoms": "increased thirst,frequent urination,unexplained weight loss,fatigue,blurred vision,cuts that are slow to heal",
+   "cures": "diet,exercise,medication",
+   "doctor": "endocrinologist",
+   "risk level": "high (25%)"
+ },
+ {
+   "disease": "alzheimer's disease",
+   "symptoms": "memory loss,confusion,difficulty thinking,changes in personality or behavior",
+   "cures": "there is no cure for alzheimer's disease,but there are treatments that can help manage the symptoms",
+   "doctor": "neurologist",
+   "risk level": "high (70%)"
+ },
+ {
+   "disease": "arthritis",
+   "symptoms": "pain,stiffness,swelling,inflammation in the joints",
+   "cures": "medication,physical therapy,lifestyle changes",
+   "doctor": "rheumatologist",
+   "risk level": "varies depending on the type of arthritis"
+ },
+ {
+   "disease": "adenovirus",
+   "symptoms": "fever,sore throat,cough,conjunctivitis,rash,pink eye",
+   "cures": "antibiotics,over-the-counter medications,rest,fluids",
+   "doctor": "family doctor,urgent care",
+   "risk level": "low (0.1%)"
+ },
+ {
+   "disease": "aflatoxicosis",
+   "symptoms": "vomiting,diarrhea,jaundice,liver damage,death",
+   "cures": "there is no cure for aflatoxicosis,but treatment may include supportive care,liver transplantation",
+   "doctor": "gastroenterologist",
+   "risk level": "high (70%)"
+ },
+ {
+   "disease": "alcoholism",
+   "symptoms": "physical dependence on alcohol,tolerance to alcohol,withdrawal symptoms,impaired judgment,memory problems,liver damage,heart disease,cancer",
+   "cures": " treatment for alcoholism may include counseling,medication,support groups",
+   "doctor": " psychiatrist,addiction specialist",
+   "risk level": "high (25%)"
+ },
+ {
+   "disease": "allergic rhinitis",
+   "symptoms": "runny nose,sneezing,itchy eyes,itchy nose,throat,palate",
+   "cures": "over-the-counter medications,allergy shots",
+   "doctor": "allergist",
+   "risk level": "low (0.1%)"
+ },
+ {
+   "disease": "alzheimer's disease",
+   "symptoms": "memory loss,confusion,difficulty thinking,changes in personality or behavior",
+   "cures": "there is no cure for alzheimer's disease,but there are treatments that can help manage the symptoms",
+   "doctor": "neurologist",
+   "risk level": "high (70%)"
+ },
+ {
+   "disease": "anemia",
+   "symptoms": "fatigue,shortness of breath,pale skin,lightheadedness,dizziness",
+   "cures": " ",
+   "doctor": " hematologist ",
+   "risk level": "varies depending on the type of anemia"
+ },
+ {
+   "disease": "anxiety disorder",
+   "symptoms": "excessive worry,fear,anxiety that interfere with daily life",
+   "cures": "treatment for anxiety disorders may include therapy,medication,combination of both",
+   "doctor": "psychologist,psychiatrist",
+   "risk level": "varies depending on the type of anxiety disorder"
+ },
+ {
+   "disease": "appendicitis",
+   "symptoms": "pain in the lower right abdomen,nausea,vomiting,fever",
+   "cures": "appendectomy",
+   "doctor": "surgeon ",
+   "risk level": "high (20%)"
+ },
+ {
+   "disease": "arthritis",
+   "symptoms": "pain,stiffness,swelling,inflammation in the joints",
+   "cures": "medication,physical therapy,lifestyle changes",
+   "doctor": "rheumatologist",
+   "risk level": "varies depending on the type of arthritis"
+ },
+ {
+   "disease": "asperger syndrome",
+   "symptoms": "difficulty with social interaction,repetitive behaviors,restricted interests",
+   "cures": "there is no cure for asperger syndrome,but there are treatments that can help manage the symptoms",
+   "doctor": "psychologist,psychiatrist",
+   "risk level": "varies"
+ },
+ {
+   "disease": "asthma",
+   "symptoms": "wheezing,shortness of breath,coughing,chest tightness",
+   "cures": "treatment for asthmmay include medication,lifestyle changes,allergy shots",
+   "doctor": " allergist,pulmonologist",
+   "risk level": "varies"
+ },
+ {
+   "disease": "bacterial meningitis",
+   "symptoms": "fever,headache,stiff neck,nausea,vomiting,sensitivity to light",
+   "cures": "antibiotics",
+   "doctor": "neurologist,neurosurgeon",
+   "risk level": "high (20%)"
+ },
+ {
+   "disease": "bipolar disorder",
+   "symptoms": "extreme mood swings,from manito depression",
+   "cures": "treatment for bipolar disorder may include medication,therapy,combination of both",
+   "doctor": " psychologist,psychiatrist",
+   "risk level": "varies"
+ },
+ {
+   "disease": "bladder cancer",
+   "symptoms": "blood in the urine,pain or burning when urinating,frequent urination,urgency to urinate,incontinence",
+   "cures": "surgery,chemotherapy,radiation therapy",
+   "doctor": "urologist",
+   "risk level": "high (70%)"
+ },
+ {
+   "disease": "blood clot",
+   "symptoms": "pain,swelling,redness,warmth,tenderness in the affected area,shortness of breath,chest pain,difficulty breathing,coughing up blood",
+   "cures": "treatment for blood clot may include medication,surgery,combination of both",
+   "doctor": "cardiologist,hematologist",
+   "risk level": "high (20%)"
+ },
+ {
+   "disease": "bronchitis",
+   "symptoms": "cough,mucus production,shortness of breath,chest pain",
+   "cures": "antibiotics,over-the-counter medications,rest,fluids",
+   "doctor": "family doctor,pulmonologist",
+   "risk level": "low (0.5%)"
+ },
+ {
+   "disease": "bursitis",
+   "symptoms": "pain,swelling,inflammation in bursa,which is small sac of fluid that cushions joints",
+   "cures": "medication,rest,ice,compression,elevation",
+   "doctor": "family doctor,orthopedist",
+   "risk level": "varies depending on the bursa"
+ },
+ {
+   "disease": "cancer",
+   "symptoms": "lump,unexplained weight loss,fatigue,changes in bowel,bladder habits,persistent cough,indigestion,unexplained bleeding or discharge",
+   "cures": "surgery,chemotherapy,radiation therapy",
+   "doctor": "oncologist",
+   "risk level": "varies depending on the type of cancer"
+ },
+ {
+   "disease": "cervical cancer",
+   "symptoms": "abnormal pap test results,abnormal vaginal bleeding,pain during sex",
+   "cures": "surgery,chemotherapy,radiation therapy",
+   "doctor": "gynecologist",
+   "risk level": "high (70%)"
+ },
+ {
+   "disease": "chickenpox",
+   "symptoms": "rash,fever,headache,muscle aches,fatigue",
+   "cures": "antiviral medication,over-the-counter medications,rest,fluids",
+   "doctor": "family doctor,urgent care",
+   "risk level": "low (0.1%)"
+ },
+ {
+   "disease": "chronic obstructive pulmonary disease (copd)",
+   "symptoms": "chronic bronchitis,emphysema",
+   "cures": "treatment for copd may include medication,lifestyle changes,oxygen therapy",
+   "doctor": "pulmonologist",
+   "risk level": "varies depending on the type of copd "
+ },
+ {
+   "disease": "cholesterol",
+   "symptoms": "high levels of cholesterol in the blood",
+   "cures": "diet,exercise,medication",
+   "doctor": "cardiologist",
+   "risk level": "varies depending on the level of cholesterol"
+ },
+ {
+   "disease": "common cold",
+   "symptoms": "runny nose,sneezing,sore throat,cough,congestion",
+   "cures": "over-the-counter medications,rest,fluids",
+   "doctor": "family doctor,urgent care",
+   "risk level": "low (0.1%)"
+ },
+ {
+   "disease": "conjunctivitis",
+   "symptoms": "red,itchy,watery eyes",
+   "cures": "over-the-counter medications,warm compresses",
+   "doctor": "family doctor,ophthalmologist",
+   "risk level": "low (0.1%)"
+ },
+ {
+   "disease": "depression ",
+   "symptoms": "sadness,hopelessness,loss of interest in activities,changes in appetite,sleep,energy levels",
+   "cures": "treatment for depression may include medication,therapy,combination of both",
+   "doctor": "psychologist,psychiatrist",
+   "risk level": "varies"
+ },
+ {
+   "disease": "diabetes",
+   "symptoms": "increased thirst,frequent urination,unexplained weight loss,fatigue,blurred vision,cuts that are slow to heal",
+   "cures": "diet,exercise,medication",
+   "doctor": "endocrinologist",
+   "risk level": "high (25%)"
+ },
+ {
+   "disease": "diarrhea",
+   "symptoms": "loose,watery stools",
+   "cures": "over-the-counter medications,rest,fluids",
+   "doctor": "family doctor,urgent care",
+   "risk level": "low (0.1%)"
+ },
+ {
+   "disease": "eating disorder",
+   "symptoms": "disturbance in eating behavior that can lead to serious health problems",
+   "cures": "treatment for eating disorders may include therapy,medication,support groups",
+   "doctor": "psychologist,psychiatrist",
+   "risk level": "varies depending on the type of eating disorder"
+ },
+ {
+   "disease": "epilepsy",
+   "symptoms": "seizures",
+   "cures": "medication,surgery",
+   "doctor": " neurologist ",
+   "risk level": "varies depending on the type of epilepsy"
+ },
+ {
+   "disease": "fever",
+   "symptoms": "elevated body temperature ",
+   "cures": "over-the-counter medications,rest,fluids",
+   "doctor": "family doctor,urgent care",
+   "risk level": "low (0.1%)"
+ },
+ {
+   "disease": "food poisoning",
+   "symptoms": "nausea,vomiting,diarrhea,abdominal cramps",
+   "cures": "over-the-counter medications,rest,fluids",
+   "doctor": "family doctor,urgent care",
+   "risk level": "low (0.1%)"
+ },
+ {
+   "disease": "gallstones",
+   "symptoms": "pain in the upper right abdomen,nausea,vomiting,fever",
+   "cures": "surgery",
+   "doctor": "surgeon ",
+   "risk level": "high (20%)"
+ },
+ {
+   "disease": "gonorrhea",
+   "symptoms": "sexually transmitted infection that can cause burning during urination,discharge from the penis or vagina,pain in the lower abdomen",
+   "cures": "antibiotics",
+   "doctor": "urologist,gynecologist",
+   "risk level": "high (70%)"
+ },
+ {
+   "disease": "heart disease",
+   "symptoms": "chest pain,shortness of breath,fatigue,dizziness,fainting",
+   "cures": "treatment for heart disease may include medication,lifestyle changes,surgery",
+   "doctor": "cardiologist",
+   "risk level": "high (20%)"
+ },
+ {
+   "disease": "hepatitis",
+   "symptoms": "inflammation of the liver",
+   "cures": "treatment for hepatitis may include medication,rest,lifestyle changes",
+   "doctor": "gastroenterologist",
+   "risk level": "varies depending on the type of hepatitis"
+ },
+ {
+   "disease": "herpes",
+   "symptoms": "sexually transmitted infection that can cause blisters on the genitals,mouth,other parts of the body",
+   "cures": "there is no cure for herpes,but there are treatments that can help manage the symptoms",
+   "doctor": "urologist,gynecologist",
+   "risk level": "high (70%)"
+ },
+ {
+   "disease": "influenza",
+   "symptoms": "fever,cough,sore throat,runny or stuffy nose,muscle aches,headache,fatigue",
+   "cures": "over-the-counter medications,rest,fluids",
+   "doctor": "family doctor,urgent care",
+   "risk level": "low (0.1%)"
+ },
+ {
+   "disease": "irritable bowel syndrome (ibs)",
+   "symptoms": "abdominal pain,bloating,constipation,diarrhea",
+   "cures": "treatment for ibs may include diet,lifestyle changes,medication",
+   "doctor": " family doctor,gastroenterologist",
+   "risk level": "varies"
+ },
+ {
+   "disease": "kidney stones ",
+   "symptoms": "pain in the lower back or side,nausea,vomiting,blood in the urine",
+   "cures": "surgery",
+   "doctor": "urologist",
+   "risk level": "high (20%)"
+ },
+ {
+   "disease": "lung cancer",
+   "symptoms": "cough that does not go away,shortness of breath,chest pain,unexplained weight loss,fatigue,blood in the sputum",
+   "cures": "surgery,chemotherapy,radiation therapy",
+   "doctor": "oncologist",
+   "risk level": "high (70%)"
+ },
+ {
+   "disease": "malaria",
+   "symptoms": "fever,chills,sweating,headache,muscle aches,fatigue,vomiting,diarrhea",
+   "cures": "antimalarial drugs",
+   "doctor": "family doctor,urgent care",
+   "risk level": "high (20%)"
+ },
+ {
+   "disease": "measles",
+   "symptoms": "fever,cough,runny nose,red eyes,sore throat,rash",
+   "cures": "measles vaccine",
+   "doctor": "family doctor,urgent care",
+   "risk level": "high (70%)"
+ },
+ {
+   "disease": "meningitis",
+   "symptoms": "fever,headache,stiff neck,nausea,vomiting,sensitivity to light",
+   "cures": "antibiotics",
+   "doctor": "neurologist,neurosurgeon",
+   "risk level": "high (20%)"
+ },
+ {
+   "disease": "mononucleosis",
+   "symptoms": "fever,sore throat,fatigue,swollen lymph nodes,rash",
+   "cures": "there is no cure for mononucleosis,but symptoms can be treated with rest,fluids,over-the-counter medications",
+   "doctor": "family doctor,urgent care",
+   "risk level": "low (0.1%)"
+ },
+ {
+   "disease": "pneumonia",
+   "symptoms": "fever,cough,shortness of breath,chest pain,fatigue",
+   "cures": "antibiotics",
+   "doctor": "family doctor,pulmonologist",
+   "risk level": "moderate (1%"
+ },
+ {
+   "disease": "rabies",
+   "symptoms": "fever,headache,muscle aches,tingling at the bite site,difficulty swallowing,hydrophobia,aerophobia",
+   "cures": "rabies vaccine",
+   "doctor": "doctor,urgent care",
+   "risk level": "high (70%)"
+ },
+ {
+   "disease": "salmonella",
+   "symptoms": "fever,diarrhea,abdominal cramps,nausea,vomiting",
+   "cures": "antibiotics",
+   "doctor": "family doctor,urgent care ",
+   "risk level": "low (0.1%)"
+ },
+ {
+   "disease": "shingles",
+   "symptoms": "painful rash that follows nerve path",
+   "cures": "antiviral medication",
+   "doctor": "family doctor,dermatologist ",
+   "risk level": "low (0.1%)"
+ },
+ {
+   "disease": "tuberculosis (tb)",
+   "symptoms": "cough that does not go away,fever,night sweats,weight loss,fatigue,chest pain",
+   "cures": "antibiotics",
+   "doctor": "family doctor,pulmonologist",
+   "risk level": "high (20%)"
+ },
+ {
+   "disease": "urinary tract infection (uti)",
+   "symptoms": "painful urination,burning,frequent urination,urgency to urinate,blood in the urine",
+   "cures": "antibiotics",
+   "doctor": "urologist",
+   "risk level": "low (0.1%)"
+ },
+ {
+   "disease": "varicose veins",
+   "symptoms": "swollen,twisted veins,usually in the legs",
+   "cures": "surgery,compression stockings,lifestyle changes",
+   "doctor": "vascular surgeon",
+   "risk level": "varies"
+ },
+ {
+   "disease": "warts ",
+   "symptoms": "raised,rough growths on the skin",
+   "cures": "over-the-counter medications,prescription medications,cryotherapy,laser therapy",
+   "doctor": "dermatologist",
+   "risk level": "low (0.1%)"
+ },
+ {
+   "disease": "yeast infection",
+   "symptoms": "itching,burning,discharge from the vaginor penis",
+   "cures": "over-the-counter medications,prescription medications",
+   "doctor": "urologist,gynecologist",
+   "risk level": "low (0.1%)"
+ },
+ {
+   "disease": "acanthamoebkeratitis",
+   "symptoms": "pain,redness,inflammation in the eye",
+   "cures": "antibiotics,antifungals,surgery",
+   "doctor": "ophthalmologist ",
+   "risk level": "low (0.1%"
+ },
+ {
+   "disease": "acute appendicitis",
+   "symptoms": "pain in the lower right abdomen,nausea,vomiting,fever",
+   "cures": "appendectomy",
+   "doctor": "surgeon",
+   "risk level": "high (20%)"
+ },
+ {
+   "disease": "acute kidney injury (aki) ",
+   "symptoms": "decreased kidney function",
+   "cures": "treatment for the underlying cause,such as dehydration,infection,medication side effect ",
+   "doctor": "nephrologist ",
+   "risk level": "varies"
+ },
+ {
+   "disease": "alzheimer's disease",
+   "symptoms": "memory loss,confusion,difficulty thinking,changes in personality or behavior",
+   "cures": "there is no cure for alzheimer's disease,but there are treatments that can help manage the symptoms ",
+   "doctor": "neurologist",
+   "risk level": "high (70%)"
+ },
+ {
+   "disease": "anemia",
+   "symptoms": "fatigue,shortness of breath,pale skin,lightheadedness,dizziness",
+   "cures": "treatment for anemidepends on the type of anemia,but may include medication,blood transfusions,surgery",
+   "doctor": "hematologist",
+   "risk level": "varies depending on the type of anemia"
+ },
+ {
+   "disease": "aortic aneurysm",
+   "symptoms": "bulge in the wall of the aorta,the largest artery in the body",
+   "cures": "surgery",
+   "doctor": "vascular surgeon",
+   "risk level": "high (20%)"
+ },
+ {
+   "disease": "bacterial meningitis ",
+   "symptoms": "fever,headache,stiff neck,nausea,vomiting,sensitivity to light",
+   "cures": "antibiotics",
+   "doctor": "neurologist,neurosurgeon",
+   "risk level": "high (20%)"
+ },
+ {
+   "disease": "bipolar disorder",
+   "symptoms": "extreme mood swings,from manito depression",
+   "cures": "treatment for bipolar disorder may include medication,therapy,combination of both",
+   "doctor": "psychologist,psychiatrist",
+   "risk level": "varies"
+ },
+ {
+   "disease": "cervical cancer ",
+   "symptoms": "abnormal pap test results,abnormal vaginal bleeding,pain during sex",
+   "cures": "surgery,chemotherapy,radiation therapy",
+   "doctor": "gynecologist ",
+   "risk level": "high (70%)"
+ },
+ {
+   "disease": "colorectal cancer",
+   "symptoms": "change in bowel habits,such as diarrhea,constipation,narrowing of the stool,blood in the stool,abdominal pain,unexplained weight loss",
+   "cures": "surgery,chemotherapy,radiation therapy",
+   "doctor": "gastroenterologist",
+   "risk level": "high (70%)"
+ },
+ {
+   "disease": "dementia",
+   "symptoms": "memory loss,confusion,difficulty thinking,changes in personality or behavior",
+   "cures": "there is no cure for dementia,but there are treatments that can help manage the symptoms",
+   "doctor": "neurologist ",
+   "risk level": "varies"
+ },
+ {
+   "disease": "erectile dysfunction",
+   "symptoms": "difficulty getting,keeping an erection ",
+   "cures": "medication,lifestyle changes,surgery ",
+   "doctor": "urologist",
+   "risk level": "varies"
+ },
+ {
+   "disease": "fibromyalgi",
+   "symptoms": "widespread pain,fatigue,tenderness",
+   "cures": "medication,lifestyle changes ",
+   "doctor": "rheumatologist ",
+   "risk level": "varies"
+ },
+ {
+   "disease": "glaucoma",
+   "symptoms": "increased pressure in the eye that can damage the optic nerve,lead to vision loss",
+   "cures": "medication,surgery ",
+   "doctor": " ophthalmologist",
+   "risk level": "varies"
+ },
+ {
+   "disease": "heart failure",
+   "symptoms": "condition in which the heart cannot pump blood as well as it should",
+   "cures": "medication,lifestyle changes,surgery",
+   "doctor": "cardiologist",
+   "risk level": "high (20%)"
+ },
+ {
+   "disease": "kidney disease",
+   "symptoms": "damage to the kidneys that can lead to kidney failure",
+   "cures": "treatment for the underlying cause,such as high blood pressure,diabetes,an infection",
+   "doctor": "nephrologist",
+   "risk level": "varies"
+ },
+ {
+   "disease": "lung disease",
+   "symptoms": "condition that affects the lungs,can make it difficult to breathe",
+   "cures": "treatment for the underlying cause,such as asthma,chronic obstructive pulmonary disease (copd),pneumonia",
+   "doctor": "pulmonologist",
+   "risk level": "varies"
+ },
+ {
+   "disease": "parkinson's disease",
+   "symptoms": "tremors,slow movement,stiffness,difficulty with balance,coordination ",
+   "cures": " medication,lifestyle changes",
+   "doctor": "neurologist ",
+   "risk level": "varies"
+ },
+ {
+   "disease": "peptic ulcer disease ",
+   "symptoms": "pain in the upper abdomen,indigestion,nausea,vomiting",
+   "cures": "medication,lifestyle changes,surgery ",
+   "doctor": "gastroenterologist",
+   "risk level": "varies"
+ },
+ {
+   "disease": "peripheral artery disease",
+   "symptoms": "pain,numbness,tingling in the arms or legs",
+   "cures": "medication,lifestyle changes,surgery",
+   "doctor": "vascular surgeon",
+   "risk level": "varies"
+ },
+ {
+   "disease": "pneumonia",
+   "symptoms": "fever,cough,shortness of breath,chest pain,fatigue",
+   "cures": "antibiotics",
+   "doctor": "family doctor,pulmonologist",
+   "risk level": "moderate (1%)"
+ },
+ {
+   "disease": "prostate cancer",
+   "symptoms": "difficulty urinating,blood in the urine,pain in the back or hips,erectile dysfunction",
+   "cures": " surgery,radiation therapy,hormone therapy",
+   "doctor": "urologist",
+   "risk level": "high (70%)"
+ },
+ {
+   "disease": "rheumatoid arthritis",
+   "symptoms": "pain,swelling,stiffness in the joints",
+   "cures": "medication,lifestyle changes",
+   "doctor": "rheumatologist",
+   "risk level": "varies"
+ },
+ {
+   "disease": "stroke",
+   "symptoms": "sudden weakness,numbness on one side of the body,difficulty speaking,confusion,trouble seeing in one eye,severe headache",
+   "cures": "treatment for the underlying cause,such as clot-busting medication,surgery",
+   "doctor": "neurologist,neurosurgeon",
+   "risk level": "high (20%)"
+ },
+ {
+   "disease": "stomach cancer",
+   "symptoms": "pain in the upper abdomen,indigestion,nausea,vomiting,weight loss",
+   "cures": "surgery,chemotherapy,radiation therapy",
+   "doctor": "gastroenterologist ",
+   "risk level": "high (70%)"
+ },
+ {
+   "disease": "thyroid cancer",
+   "symptoms": "lump in the neck,hoarseness,fatigue,weight loss,unexplained heat intolerance,sensitivity to cold",
+   "cures": "surgery,radiation therapy,hormone therapy",
+   "doctor": "endocrinologist",
+   "risk level": "high (70%)"
+ },
+ {
+   "disease": "ulcerative colitis",
+   "symptoms": "diarrhea,bloody stool,abdominal pain,weight loss",
+   "cures": "medication,surgery",
+   "doctor": "gastroenterologist ",
+   "risk level": "varies"
+ },
+ {
+   "disease": "warts",
+   "symptoms": "raised,rough growths on the skin",
+   "cures": "over-the-counter medications,prescription medications,cryotherapy,laser therapy",
+   "doctor": " dermatologist",
+   "risk level": "low (0.1%)"
+ },
+ {
+   "disease": "atopic dermatitis",
+   "symptoms": "itchy,red,inflamed skin",
+   "cures": "medication,lifestyle changes",
+   "doctor": " dermatologist",
+   "risk level": "varies"
+ },
+ {
+   "disease": "celiac disease",
+   "symptoms": "diarrhea,bloating,weight loss,fatigue,abdominal pain",
+   "cures": "gluten-free diet",
+   "doctor": "gastroenterologist",
+   "risk level": "varies"
+ },
+ {
+   "disease": "chronic kidney disease",
+   "symptoms": "fatigue,shortness of breath,swelling,high blood pressure,changes in urination",
+   "cures": "treatment for the underlying cause,such as high blood pressure,diabetes,an infection",
+   "doctor": "nephrologist",
+   "risk level": "varies"
+ },
+ {
+   "disease": "crohn's disease",
+   "symptoms": "diarrhea,bloody stool,abdominal pain,weight loss",
+   "cures": "medication,surgery",
+   "doctor": "gastroenterologist",
+   "risk level": "varies"
+ },
+ {
+   "disease": "epilepsy ",
+   "symptoms": "seizures",
+   "cures": "medication,surgery",
+   "doctor": "neurologist",
+   "risk level": "varies"
+ },
+ {
+   "disease": "fibromyalgia",
+   "symptoms": "widespread pain,fatigue,tenderness",
+   "cures": "medication,lifestyle changes",
+   "doctor": "rheumatologist",
+   "risk level": "varies"
+ },
+ {
+   "disease": "graves' disease",
+   "symptoms": "hyperthyroidism,which is an overactive thyroid",
+   "cures": "medication,surgery",
+   "doctor": "endocrinologist",
+   "risk level": "varies"
+ },
+ {
+   "disease": "hashimoto's thyroiditis ",
+   "symptoms": "hypothyroidism,which is an underactive thyroid ",
+   "cures": "medication",
+   "doctor": "endocrinologist",
+   "risk level": "varies"
+ },
+ {
+   "disease": "lupus",
+   "symptoms": "chronic autoimmune disease that can affect any part of the body",
+   "cures": "medication,lifestyle changes",
+   "doctor": "rheumatologist ",
+   "risk level": "varies"
+ }
+]

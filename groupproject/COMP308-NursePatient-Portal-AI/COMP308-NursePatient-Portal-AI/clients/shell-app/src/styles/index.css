@@ -1,0 +1,17 @@
+/* Reset CSS */
+html,
+body,
+#root {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+/* Ensure the shell app container takes full width and height */
+.shell-app-container {
+  width: 100% !important;
+  height: 100% !important;
+  display: flex !important;
+  flex-direction: column !important;
+}

@@ -1,0 +1,52 @@
+.section-auth {
+  /* background-color: #9a616d; */
+  margin: 0;
+  border-radius: 20px;
+}
+
+body {
+  background-color: #f8f9fa !important;
+}
+
+.image-auth {
+  border-radius: 20px 0 0 20px;
+}
+
+i {
+  color: #ff6219;
+}
+
+h5 {
+  letter-spacing: 1px;
+}
+
+a {
+  color: #393f81;
+  text-decoration: none;
+}
+
+.register-link {
+  color: #393f81;
+}
+
+.card-auth {
+  border-radius: 20px !important;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+}
+
+.button {
+  background-color: #26a57f !important;
+  border-color: #1f9572 !important;
+  border-radius: 20px !important;
+  float: right !important;
+}
+
+.button:hover {
+  background-color: #1f9572 !important;
+  border-color: #26a57f !important;
+}
+
+.nav-tabs .nav-link,
+.nav-tabs .nav-link:hover {
+  color: #1f9572;
+}

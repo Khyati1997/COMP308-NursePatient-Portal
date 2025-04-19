@@ -1,0 +1,14 @@
+.form-options {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+@media screen and (min-width: 1024px) {
+  .form-options {
+    /* Show 2 columns */
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+  }
+}

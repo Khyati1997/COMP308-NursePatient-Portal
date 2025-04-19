@@ -1,0 +1,27 @@
+[
+  {
+    "symptoms": "fever,cough,sore throat",
+    "expected_disease": "flu",
+    "risk_factor": "low"
+  },
+  {
+    "symptoms": "chest pain,shortness of breath",
+    "expected_disease": "heart attack",
+    "risk_factor": "high"
+  },
+  {
+    "symptoms": "thirsty,urination,weight loss",
+    "expected_disease": "diabetes",
+    "risk_factor": "high"
+  },
+  {
+    "symptoms": "wheezing,shortness of breath,coughing,chest tightness",
+    "expected_disease": "asthma",
+    "risk_factor": "medium"
+  },
+  {
+    "symptoms": "fatigue,weight loss,night sweats",
+    "expected_disease": "tuberculosis",
+    "high_risk": "high"
+  }
+]
